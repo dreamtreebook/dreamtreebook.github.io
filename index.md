@@ -23,7 +23,7 @@ layout: default
 <div id="mc_embed_signup" class="container">
 <form action="https://github.us20.list-manage.com/subscribe/post?u=7d56d9435caefe2408cbf740a&amp;id=1a65336f23" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	<h2>Enter your details below to stand a chance to win a free autographed book</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group form-group">
 	<label for="mce-EMAIL" class="">Email Address  <span class="asterisk">*</span>
