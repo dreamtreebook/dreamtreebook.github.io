@@ -72,6 +72,5 @@ kramdown:
 
 include: ['_pages']
 
-# sass:
-#    sass_dir: _sass
-# theme: jekyll-theme-cayman
+sass:
+   sass_dir: _sass
